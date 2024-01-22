@@ -5,7 +5,7 @@
         "core": "*",
     },
     "files": [
-        "main.ts",
+        "pxt-grove-mp3-v3.ts",
         "README.md"
     ],
     "testFiles": [
