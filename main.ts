@@ -1,3 +1,18 @@
+/**
+ * Grove MP3 V3 extension for calliope.
+ * Serial interface.
+ *
+ * Most of the functions copied from:
+ * https://github.com/imake-it/pxt-grove_mp3_v3
+ *
+ * SPEC: https://cdn.sparkfun.com/assets/7/c/0/c/6/WT2003S-16S_Chip_V1.03.pdf
+ *
+ * @author Raik Andritschke
+ *
+ * Be careful with the power supply via the calliope
+ * 
+ */
+
 //% color=#000080 icon="\uf001" block="GroveMP3V3"
 namespace grove_mp3_v3 {
 
