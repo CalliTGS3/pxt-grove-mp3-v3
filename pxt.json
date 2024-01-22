@@ -1,15 +1,15 @@
 {
     "name": "pxt-grove-mp3-v3",
-    "description": "",
     "dependencies": {
-        "core": "*",
+        "core": "*"
     },
     "files": [
+        ".vscode/extensions.json",
+        ".vscode/settings.json",
+        "README.md",
         "pxt-grove-mp3-v3.ts",
-        "README.md"
-    ],
-    "testFiles": [
-        "test.ts"
+        "test.ts",
+        "tsconfig.json"
     ],
     "supportedTargets": [
         "calliopemini"
